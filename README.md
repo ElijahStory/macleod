@@ -4,6 +4,8 @@ Macleod
 About the project:
 ------------------
 
+HERE IS AN UPDATE 
+
 This program consists of a set of scripts designed for key reasoning tasks frequently encountered when desiging and verifying (testing) ontologies written in the CLIF dialect of the Common Logic standard. Note that the program currently supports only a limited subset of the full semantics of Common Logic: it only supports the standard logical connectives (if, iff, and, or, not) and quantifiers (exists, forall) for writing first-order logic axioms and unrestricted importation of the axiom from another CLIF file. It does not support other module semantics  and syntactic sugar like sequence markers. 
 
 The most common tasks supported at the moment:
