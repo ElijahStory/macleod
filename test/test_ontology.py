@@ -4,9 +4,9 @@ import os
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../src')))
 
-from macleod.logical.symbol import (Function, Predicate)
+from macleod.logical.symbol import (Predicate)
 from macleod.logical.axiom import Axiom
-from macleod.logical.quantifier import (Universal, Existential, Quantifier)
+from macleod.logical.quantifier import (Universal)
 import macleod.Ontology as Ontology
 
 class OnologyTest(unittest.TestCase):
